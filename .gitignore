@@ -1,0 +1,12 @@
+node_modules/
+
+# Local secrets and runtime noise
+.env
+.env.*
+auth.json
+credentials.json
+secrets.json
+tokens.json
+*.key
+*.pem
+*.log
